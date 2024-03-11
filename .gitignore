@@ -1,0 +1,19 @@
+
+
+# Ignorar los directorios de node_modules en cualquier lugar del proyecto
+node_modules/
+
+# Ignorar el archivo de registro de depuración de npm
+npm-debug.log
+
+# Ignorar el archivo .env que puede contener variables de entorno sensibles
+.env
+
+# Ignorar los archivos de caché de eslint
+.eslintcache
+
+# Ignorar los archivos de construcción/dist
+dist/
+
+# Ignorar los archivos de registro
+*.log
